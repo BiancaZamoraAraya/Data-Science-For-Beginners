@@ -20,9 +20,9 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
-| Vaccination | | | | |
-| Productivity | | | | |
+| Education | User needs to improve education process for children in schools, based on their development, in a certain location (state, country, etc.). | Total population of children attending school and their grades (personal information such as age, gender an nationality, if possible), the amount of time dedicated to asignatures and the amount of time dedicated to assigments, as well as the day of the week they work on them. Their califications of standarized tests. | The data could be stored in a structured form such as tables. | Insights: Which age are children most involved with school subjects, which asignatures are they more interested in and which ones they need to improve. Decisitions: have certain subjects to spend more time on. |
+| Vaccination | User needs to control vaccination during the pandemic, in a certain location (school, university, state, country, etc.). | Total population as well as vaccined (or not) population, including the date (hour, even), the place of vaccination and the vaccine. If possible, personal information such as gender, nationality, age. | The data could be stored in a structured form such as tables. | Insights: which age-group is being (or not) vacccined, the most concurred places to get vaccined. Decisions: which hgroup of people should be encouraged to get vaccined.|
+| Productivity | User needs to determine if they are being productive at work hours based on their activity in their computer. | The time spent of the computer softwares and which softwares were (they could be categorized), including the clicks (to evidence actual activity in the apps). | The data could be stored in a structured form such as tables. | Insights: know how the time is being used at work. Decisions: Use one software more than the other.|
 
 ## Rubric
 
